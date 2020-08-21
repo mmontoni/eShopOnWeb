@@ -4,6 +4,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>Microsoft.eShopWeb.IntegrationTests</RootNamespace>
     <IsPackable>false</IsPackable>
+	<ProjectGuid>{60BF548C-CA2E-4000-B5D5-DFB1544454AE}</ProjectGuid>
   </PropertyGroup>
 
   <ItemGroup>
